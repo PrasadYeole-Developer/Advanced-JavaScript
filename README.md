@@ -5,7 +5,7 @@ A curated collection of core advanced JavaScript topics like closures, hoisting,
 
 - this
 
-  ![This](/Tutorial/this.png);
+  ![This](/Tutorial/this.png)
 
 Value of 'this' in different places :
 
