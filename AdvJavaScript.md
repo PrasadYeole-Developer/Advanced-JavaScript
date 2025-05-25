@@ -1,6 +1,6 @@
 - this
 
-  ![This](/Tutorial/this.png);
+  ![This](/Tutorial/this.png)
 
 Value of 'this' in different places :
 
